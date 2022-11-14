@@ -1,0 +1,11 @@
+:root {
+    --color-white: white;
+    --color-primary: rgb(15, 194, 232);
+    --color-secondary: rgb(1, 148, 191);
+    --color-tertiary: rgb(226, 212, 150);
+    --color-primary-light: rgb(233, 243, 245);
+    
+    --font-coding: 'Fira Code', monospace;
+
+    --transition: 300ms;
+}
